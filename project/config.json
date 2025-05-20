@@ -1,0 +1,11 @@
+{
+    "auto_scan_on_startup": true,
+    "auto_scan_interval": 5,
+    "diagnostics_detail_level": "Стандартный",
+    "auto_diagnostics": true,
+    "ui_theme": "Светлая",
+    "font_size": "Средний",
+    "reports_path": "~/Documents",
+    "report_format": "PDF",
+    "auto_save_reports": false
+}
