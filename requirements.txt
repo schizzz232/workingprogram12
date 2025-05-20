@@ -1,0 +1,16 @@
+# Основные зависимости
+psutil>=5.9.0
+py-cpuinfo>=8.0.0
+GPUtil>=1.4.0
+pywin32>=303; platform_system=="Windows"
+wmi>=1.5.1; platform_system=="Windows"
+pydantic>=1.9.0
+matplotlib>=3.5.1
+seaborn>=0.11.2
+PyQt5>=5.15.6
+PyQt5-stubs>=5.15.6.0
+transformers>=4.18.0
+torch>=1.11.0
+numpy>=1.22.3
+pandas>=1.4.2
+scikit-learn>=1.0.2
